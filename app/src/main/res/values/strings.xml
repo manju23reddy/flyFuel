@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">FlyFuel</string>
+
+    <string name="sign_up_by_title">Create Account By</string>
+    <string name="sign_up_by_phone_number">Phone Number</string>
+    <string name="sign_up_by_google">Google</string>
+    <string name="already_registered">Have account? Sign In</string>
+    <string name="get_validation_code">Get Validation Code</string>
+    <string name="validate_code">Validate Code</string>
+    <string name="context_signup_layout_main_layout">Sign Up main layout</string>
+    <string name="context_signup_layout_inner_layout">Sign Up inner layout</string>
+    <string name="create_profile">Create Profile</string>
+    <string name="create">Create</string>
+    <string name="hint_email_id">Email Id</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_phone_number">Phone Number</string>
 </resources>
